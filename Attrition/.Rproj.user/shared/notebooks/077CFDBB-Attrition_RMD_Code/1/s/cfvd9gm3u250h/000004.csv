@@ -1,0 +1,8 @@
+"0","rfData <- attrition"
+"0","set.seed(123)"
+"0","indexes = sample(1:nrow(rfData), size=0.8*nrow(rfData))"
+"0","RFtrain.Data <- rfData[indexes,]"
+"0","RFtest.Data <- rfData[-indexes,]"
+"0",""
+"0","rf.model <- randomForest(Attrition~.,RFtrain.Data, importance=TRUE,ntree=500)"
+"0","varImpPlot(rf.model)"

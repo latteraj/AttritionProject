@@ -1,0 +1,5 @@
+"0","rfData <- attrition"
+"0","set.seed(123)"
+"0","indexes = sample(1:nrow(rfData), size=0.8*nrow(rfData))"
+"0","RFRaw.train.Data <- rfData[indexes,]"
+"0","RFRaw.test.Data <- rfData[-indexes,]"

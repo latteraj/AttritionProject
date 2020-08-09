@@ -1,0 +1,8 @@
+"0","DtData <- attrition"
+"0","set.seed(123)"
+"0","indexes = sample(1:nrow(DtData), size=0.8*nrow(DtData))"
+"0","DTtrain.Data <- DtData[indexes,]"
+"0","DTtest.Data <- DtData[-indexes,]"
+"0",""
+"0","dtree.model <- tree::tree (Attrition ~., data = DTtrain.Data)"
+"0","plot(dtree.model)"

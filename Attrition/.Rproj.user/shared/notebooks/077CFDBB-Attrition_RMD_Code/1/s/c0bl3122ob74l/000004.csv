@@ -1,0 +1,5 @@
+"0","attrition %>%"
+"0","        ggplot(mapping = aes(x = MonthlyIncome)) + "
+"0","        geom_histogram(aes(fill = Attrition), bins=20)+"
+"0","        labs(x=""Monthly Income"", y=""Attriation Number"")+"
+"0","        ggtitle(""Attrition with regards to Monthly Income"")"

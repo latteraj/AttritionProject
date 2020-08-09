@@ -1,0 +1,5 @@
+"0","plot.roc (as.numeric(DTtest.Data$Attrition), as.numeric(dtree.prd), main=""DTree"",lwd=2, type=""b"", print.auc=TRUE, col =""brown"")"
+"2","Setting levels: control = 1, case = 2
+"
+"2","Setting direction: controls < cases
+"

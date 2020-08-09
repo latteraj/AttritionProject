@@ -1,0 +1,7 @@
+"0","XGB.model <- train(formula, data = XGBtrain.Data,"
+"0","                  method = ""xgbTree"""
+"0","                  ,trControl = fitControl"
+"0","                  , verbose=0"
+"0","                  , maximize=FALSE"
+"0","                  ,tuneGrid = xgbGrid"
+"0",")"

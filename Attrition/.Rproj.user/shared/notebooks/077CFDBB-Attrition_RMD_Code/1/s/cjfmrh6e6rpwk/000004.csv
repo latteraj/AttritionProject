@@ -1,0 +1,5 @@
+"0","svm.plot <-plot.roc (as.numeric(SVMtest.Data$Attrition), as.numeric(svm.prd),lwd=2, type=""b"", print.auc=TRUE,col =""blue"")"
+"2","Setting levels: control = 1, case = 2
+"
+"2","Setting direction: controls < cases
+"

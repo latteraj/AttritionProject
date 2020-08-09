@@ -1,0 +1,5 @@
+"0","plot.roc (as.numeric(RFRaw.test.Data$Attrition), as.numeric(Raw.rf.prd), main=""Random Forest"",lwd=2, type=""b"", print.auc=TRUE, col =""seagreen4"")"
+"2","Setting levels: control = 1, case = 2
+"
+"2","Setting direction: controls < cases
+"

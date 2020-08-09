@@ -1,0 +1,6 @@
+"0","ggplot(data=attrition, aes(attrition$Age)) + "
+"0","        geom_histogram(breaks=seq(20, 50, by=2), "
+"0","                       col=""blue"", "
+"0","                       aes(fill=..count..))+"
+"0","        labs(x=""Age"", y=""Count"")+"
+"0","        scale_fill_gradient(""Count"", low=""red"", high=""green"")"

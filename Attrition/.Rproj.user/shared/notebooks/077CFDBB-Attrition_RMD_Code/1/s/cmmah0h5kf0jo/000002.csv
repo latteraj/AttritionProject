@@ -1,0 +1,1 @@
+"0","attrition = fread(""Attrition.csv"", sep = "","", header = TRUE, stringsAsFactors = T)"

@@ -1,0 +1,8 @@
+"0",""
+"0","attrition %>%"
+"0","        group_by(Department, Attrition) %>%"
+"0","        tally() %>%"
+"0","        ggplot(aes(x = Department, y = n,fill=Attrition)) +"
+"0","        geom_bar(stat = ""identity"") +"
+"0","        theme_minimal()+"
+"0","        geom_text(aes(label = n), vjust = -0.1, position = position_dodge(0.9))"

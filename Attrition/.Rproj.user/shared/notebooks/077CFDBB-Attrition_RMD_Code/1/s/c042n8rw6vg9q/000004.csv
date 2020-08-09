@@ -1,0 +1,5 @@
+"0","rf.Plot<- plot.roc (as.numeric(RFtest.Data$Attrition), as.numeric(rf.prd),lwd=2, type=""b"", print.auc=TRUE,col =""blue"")"
+"2","Setting levels: control = 1, case = 2
+"
+"2","Setting direction: controls < cases
+"

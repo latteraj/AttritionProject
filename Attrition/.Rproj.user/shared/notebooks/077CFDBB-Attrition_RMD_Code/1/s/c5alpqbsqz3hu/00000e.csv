@@ -1,0 +1,6 @@
+"0","par(mfrow=c(2,3))"
+"0","plot.roc (as.numeric(XGBtest.Data$Attrition), as.numeric(XGB.prd),main=""XGBoost"",lwd=2, type=""b"", print.auc=TRUE, col =""blue"")"
+"2","Setting levels: control = 1, case = 2
+"
+"2","Setting direction: controls < cases
+"

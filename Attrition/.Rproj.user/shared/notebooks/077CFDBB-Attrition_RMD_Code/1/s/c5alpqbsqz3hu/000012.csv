@@ -1,0 +1,5 @@
+"0","plot.roc (as.numeric(BLtest.Data$Attrition), as.numeric(NewXGB.prd),main=""New XGBoost"",lwd=2, type=""b"", print.auc=TRUE, col =""green"")"
+"2","Setting levels: control = 1, case = 2
+"
+"2","Setting direction: controls < cases
+"
